@@ -4,5 +4,6 @@ GITの練習です
 ・git commmit
 ・git rm
 ・git status
+・git diff
 結果にcommitします。
 ライザップ高い
