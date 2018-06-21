@@ -1,2 +1,6 @@
 GITの練習です
 色々試します。
+・git add
+・git commmit
+結果にcommitします。
+ライザップ高い
